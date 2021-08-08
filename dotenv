@@ -1,0 +1,3 @@
+DATABASE = `mongodb://localhost:27017/Parent&&Student`
+JWT_SECRET = `4565485123`
+PORT = 3000
